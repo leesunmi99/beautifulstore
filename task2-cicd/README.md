@@ -1,6 +1,8 @@
 # 순서
 1. Jenkins [새로운 Item] 추가
    - item name: beautifulstore
+   - GitHub: https://github.com/leesunmi99/beautifulstore
+   - sparse checkout: task2
      
 
 # 실습 과정
