@@ -1,9 +1,11 @@
-# 순서
-1. Jenkins [새로운 Item] 추가
+
+
+
+Jenkins [새로운 Item] 추가
    - item name: beautifulstore
    - GitHub: https://github.com/leesunmi99/beautifulstore
    - sparse checkout: task2
-   -
+   
 ```bash
 cd task2
 docker build -t beautifulstore:v1 .
