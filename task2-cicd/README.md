@@ -4,10 +4,12 @@
    - GitHub: https://github.com/leesunmi99/beautifulstore
    - sparse checkout: task2
    -
+```bash
 cd task2
 docker build -t beautifulstore:v1 .
 docker rm -f beautifulstore || true
 docker run -d --name beautifulstore -p 8080:8080 beautifulstore:v1
+```
 
 
 # 실습 과정
