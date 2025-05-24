@@ -5,6 +5,8 @@
 
 3. Docker 명령어로 container 생성
 
+docker build -t beautifulstore:v1
+docker run -d --name beautifulstore -p 8080:8080 beautifulstore:v1
 
 
 
