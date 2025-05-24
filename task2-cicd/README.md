@@ -1,7 +1,7 @@
 # 순서
 1. Jenkins [새로운 Item] 추가
    - item name: beautifulstore
-   - 
+     
 
 # 실습 과정
 
@@ -20,3 +20,6 @@
 <img width="1184" alt="image" src="https://github.com/user-attachments/assets/07010259-cad6-446f-9ad5-b726a2271088" />
 
 <img width="1203" alt="image" src="https://github.com/user-attachments/assets/e32de41b-d875-4486-9c1b-16e232df46f8" />
+
+# 결과 
+![image](https://github.com/user-attachments/assets/d199072b-98be-4e47-acd7-d9a927237000)
