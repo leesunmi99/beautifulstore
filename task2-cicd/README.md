@@ -1,4 +1,7 @@
-
+# 순서
+1. Jenkins [새로운 Item] 추가
+   - item name: beautifulstore
+   - 
 
 # 실습 과정
 
